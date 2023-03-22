@@ -1,5 +1,5 @@
 # ESP8266
-The ESP8266 is a low cost 32 bit RISC microcontroller from Espressif 
+The ESP8266 is a low cost 32 bit RISC  Wi-Fi microcontroller with full TCP/IP stack manufactured by Espressif in 2014. 
 
 - Single core CPU
 - Up to 80MHz clock speed
