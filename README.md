@@ -11,3 +11,5 @@ I am using wemos D1 mini device. This is a ESP8266 microcontroller on a small bo
 
 ![alt text](https://github.com/TangatBaktybergen/ESP/blob/4eac2596533915e684a454bac06f3e3dd47269e0/D1%20mini%20pro.png)
 
+- "connect_wifi" shows how to connect ESP8266 to WiFi
+- "dht11" shows how to connect dht11 snesor
